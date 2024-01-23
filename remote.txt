@@ -1,4 +1,4 @@
 New remote file
 second line
-
+third line
 fourth line
